@@ -1,0 +1,4 @@
+domain,validation_files,drawn_windows,evaluated_token_positions,unique_target_positions,available_target_positions
+en,2,64,16384,11197,19489
+ru,2,64,16384,12489,26381
+code,4,64,16384,11659,45925
