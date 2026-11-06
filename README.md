@@ -9,6 +9,7 @@ A non-commercial research lab studying language-model training, data, memory, ev
 | Study | Area | Status |
 |---|---|---|
 | [AR-1 — Training-data sampling: files or windows](studies/training/AR-1-data-sampling/README.md) | Training and data | Completed, scoped comparison across three seeds |
+| [AR-2 — Fact-order augmentation](studies/memory/AR-2-fact-order/README.md) | Memory and robustness | Completed scoped comparison; prepared for publication |
 
 Study reports are currently written in Russian. Each report presents its question, method, results, limitations, and available reproduction materials. Negative results are retained; releasing an improved model is not a requirement for a useful study.
 
