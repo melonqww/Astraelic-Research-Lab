@@ -1,0 +1,1212 @@
+{
+  "verified_on": "2026-11-06",
+  "source_sha256": {
+    "runs/architecture-knn-six-model-admission-v1/report.json": "cfbffba6a368489ba0fc9f2ccddf813931450730335b77288f116542a2ca0311",
+    "runs/architecture-knn-store-audit-v1-architecture-transformer-cpu-lexical-v6-seed17/report.json": "3fb78636a4b2184b3900216706f72d6c608a827277679a25b2f8170c5f8085c8",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed17/manifest.json": "f772083ed6491909b88aa3113d208cc79b91f6aef88c509e44476fc3afe015f9",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed17/keys.npy": "839b11b9dd7e1b257fa9ea17de6f92b0e960a443788ca0c0a284bdd438ecccc0",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed17/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed17/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/protocol.json": "ac415c78f5ed7da15742494de5a31bb6c6307def57d6016bf8ee5a3afee5ff5d",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/checkpoint.pt": "eade26fac437583a48ac0e113444b01b1023b1a136665d16ead1b2f4f7293846",
+    "runs/architecture-knn-store-audit-v1-architecture-hybrid-attention-cpu-v16-seed17/report.json": "6f2fc077395a1d5108240c0e95009de0943cedfd0d9499cb2e77daf2dfe7a08f",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed17/manifest.json": "478f0dc4cda67103e14833de5867c149093454ec695c15fa49ffd3356a6bbe05",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed17/keys.npy": "19d3499edc36417143d12ee19594f51f87e3c3dea60e9fe1e1caf2f903ee1117",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed17/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed17/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/protocol.json": "d533e40da17b0fbfcd50744ecff3f51ac2d9d5c24bcb22d1966a045a60716edd",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/checkpoint.pt": "9b9151f790a29255975d00e2f5b319679864a35794a1ae7afe19fd95326a089c",
+    "runs/architecture-knn-store-audit-v2-architecture-transformer-cpu-lexical-v6-seed29/report.json": "859024f70798ee274b7dbc569d71c750b10ce7e1d1bb330364da6b5d36ad3b27",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed29/manifest.json": "fe03799c3f3d5e0b7cfae7053f85ec098487702f414209f62a14f4dc414f2b6d",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed29/keys.npy": "ab0d5fdaf3999222dbc9dbb3ccf119cf688bf5fdc81d03372e82410d58b4c2e9",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed29/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed29/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/protocol.json": "6fea70165829637fb6dd7be4fc9c3f9b54f6453e2d52a81f00a803727e769dcf",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/checkpoint.pt": "824048a042ebd2268691395297e0fab37772376e3730d7d995dc966efdd18b2f",
+    "runs/architecture-knn-store-audit-v2-architecture-hybrid-attention-cpu-v16-seed29/report.json": "a7134b7998d8f69b434cd308e784a245da8b89f6719387da37393ac78f691a67",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed29/manifest.json": "4c116e37631b34f3e304f7b61c76b253f4d476efdb416195d06733e9fcd010d5",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed29/keys.npy": "0b6c3c1ee2c1d9b8948fb2796627db4166bc67274fffe570f9a135a24781d54e",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed29/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed29/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/protocol.json": "9a13704bff78a38d8617d399869567a89417a2f6a3768687d92c9251fe88e062",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/checkpoint.pt": "096d5fc5c46ada990b08876b383e35313045ba0a2559a357b4f5258c4c034cdd",
+    "runs/architecture-knn-store-audit-v2-architecture-transformer-cpu-lexical-v6-seed43/report.json": "ee5b6c266d2b498f71e6ad732ffb25db6bf711558027d4d0bdec10ef7a4d5e7e",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed43/manifest.json": "afdde0aea41e01f00250b194bc770fc89cb8b017a5fb73404a120b2813d05647",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed43/keys.npy": "40ba27a8195bca2c646045f3a310a1ef29220211f430c2a45b4505313e9bfc05",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed43/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-transformer-cpu-lexical-v6-seed43/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/protocol.json": "4f4e97aff4e22e5b7e2d24e7d7481fa3b759d078ede9f77b08e42fd36b328fa8",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/checkpoint.pt": "838aae7692c3f92717154d4cce20ec10c870afdd6ee18997cb99b8edba006616",
+    "runs/architecture-knn-store-audit-v2-architecture-hybrid-attention-cpu-v16-seed43/report.json": "09a75a31aac92fede875cb08c8b4b3f00e2d34eb7c4dc3303a9e5f063d61c1f8",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed43/manifest.json": "6f8b116a4fa2988c1b40ff2d5557a9bf2f98ffae0374e95e718b4f4c93839b1d",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed43/keys.npy": "d9ed16f3a98c23e7d29b8b42101ab7dce311b363896bc9e94f96a58ebfb14456",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed43/values.npy": "237d8473f3ce758ffed663d2d1768094ed960754ea9d00c95f9ec07f47a7e290",
+    "runs/architecture-knn-train-store-v1-architecture-hybrid-attention-cpu-v16-seed43/rows.json": "a5b0991b1a74c11726df2691b66b0aa447ca79a3c7d1052563a21e3e2cfef101",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/protocol.json": "891e3b12f1a5ea5011dc70aacfac6713a9b13982006bb97c0c88a481f8566f38",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/checkpoint.pt": "e45794d947aa75665802b697b86a468d137927fcb531cb9e9b6496378db67ac3",
+    "data/architecture_research/architecture-length-mix-data-v5-tr2048-iid192-ood192-seed17/train.json": "fa94aeecb35a9ccc3de1fce78bb873715d2dbe8b78b9dd783b6000c7e2dec4be",
+    "data/architecture_research/architecture-length-mix-data-v5-tr2048-iid192-ood192-seed17/validation_iid.json": "79d300ce1f5be0df2fd26b2d878175fb8d19d46cf61882a99d444a39001f9f76",
+    "data/architecture_research/architecture-length-mix-data-v5-tr2048-iid192-ood192-seed17/development.json": "57a3563e734ad590ca9fa56b0cbc71f3b99f59d0195ed527c2b5b2a45fe9ef71",
+    "data/architecture_research/architecture-selection-dev-v1/selection_iid.json": "332304846fb2b722e989d4f2ecbef13f6e5c875c1584fe23e69e3f10841ab2f3",
+    "data/architecture_research/architecture-selection-dev-v1/selection_ood.json": "30bde47b5e56d3365aa5e110b4ecc5ed8a6e3173cc226e81084a6d80ba54bda7",
+    "data/architecture_research/architecture-selection-dev-v2/selection_iid.json": "c5ac513188d64bfd39b4d1e568fdb86e2e4d49152c8243b56abb55c47c89ae2d",
+    "data/architecture_research/architecture-selection-dev-v2/selection_ood.json": "81d7c30769829b507280e416c2ee3bff805c7c8e203098e6c7faebfa0bf80ac6",
+    "data/architecture_research/architecture-selection-dev-v3/reversed_iid.json": "c895a46beadad255127063e2178d58cdffb59476e183fdf2cadf1c8612c87309",
+    "data/architecture_research/architecture-selection-dev-v3/reversed_ood.json": "3e579761b7b2da801753405b3f0c6d4f64c7ed896649586660d158e807478d07",
+    "data/architecture_research/architecture-selection-dev-v3/selection_iid.json": "c68d7bb005f73d391fc317b7f7584862a2dcd24101cf36764e642baab4c88d2e",
+    "data/architecture_research/architecture-selection-dev-v3/selection_ood.json": "69ba6bb899ed63e08f77f3b959d2a01b12b8855b863b7aa5f41b80be2ecf3e85",
+    "data/architecture_research/architecture-selection-dev-v4/selection_iid.json": "0b8638f57e70d6b17e1d06875ddfc52834347c094c3f4e2a68fbd90e501c18e5",
+    "data/architecture_research/architecture-selection-dev-v4/selection_ood.json": "847ad092926c630807446b909d4a5b848e07bfb633c3525accd17891d593dcc5",
+    "data/architecture_research/architecture-selection-dev-v5/selection_iid.json": "9eec691059515f007d7371d62904bfb0456f6aada27fc5009ec8f90975ab6b12",
+    "data/architecture_research/architecture-selection-dev-v5/selection_ood.json": "ef732182fc948fa6f29aea6bda861a20020d5ef75edd94ecdfd5258d859f8bd0",
+    "data/architecture_research/architecture-selection-dev-v6/selection_iid.json": "b767a7a796ad9252626ea2767d5e43abba2bed892f83c8d64d964b9ba702f0df",
+    "data/architecture_research/architecture-selection-dev-v6/selection_ood.json": "694675cfeb496b3753efd983d3419b11f209b087b4afabab4e62c160652f8909",
+    "architecture_research/memory/knn_reference.py": "cb3882c284c9550d9bb8078881be220bf9ce9ff72a6b0a2a0c9bf028eae833eb",
+    "runs/architecture-knn-confirmation-v6/preregistration.json": "2119cc1751062b010ff2fa076e85e29dc28f1fcdef993bb1b624527e07633d04",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed17/selection_iid_answers.json": "9d32cc0bbe1f5e7370253fad5f6a7ed513fccad13be0c172599fb275f971c7bd",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed17/selection_ood_answers.json": "a7331624c9e66757578cb848acb170f0b0174f0622d2b6ba3552870c7f96a370",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed17/result.json": "c4165fb5749fca1213407b70a82cf3ee23ec14927ab68b467faeaab68cd2c899",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed17/selection_iid_answers.json": "14e67356ab3e780548a0bb0cdae511b87ad45cbec72e0a81913cd1c49c162436",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed17/selection_ood_answers.json": "69adcbc6d92854184aab35e10d5638d4e58a0a6763e604ca1bddff8d49a93cc7",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed17/result.json": "ca0c42db94f0f4580d7e48419bbcb6909f1cbbe344358011d12e6e1c57e231b2",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed29/selection_iid_answers.json": "a1dca33c68de4003b47de5e88243a1c97fa030246380a0a1d9015cc3e9064107",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed29/selection_ood_answers.json": "148440e3e3cf6c6a139929ed2e2372650ddeca07bb834ca61b29f573756231ec",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed29/result.json": "4add078f591b897e8a1a6d47457f41b01f936ba5206ed5c0d2d4f5be14d263b3",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed29/selection_iid_answers.json": "3965db69e6cce80dbe5ea6a5f5930e3ebaa6775137cc8bbfe9ee4c192cbaa2ed",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed29/selection_ood_answers.json": "fbff68b6f2fae554fdfe817040388708893898b9fb43a19ac4842c14736825b2",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed29/result.json": "317b35a00ee7445d29c6a48099f5b234023af21e3c4b9b9da75129270a2b7fd5",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed43/selection_iid_answers.json": "052dc813d97ce64a65d20eb149f61cbd7fd5971a42d45b78fc5f3e4a1340e371",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed43/selection_ood_answers.json": "50712f88824a05cc29252cd91e4a08a0732eabad90fa3488683b1806f2139530",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-transformer-cpu-lexical-v6-seed43/result.json": "2a7b951e0473c919a76f49efff1c893062d011ae4a6a1045095f8c4bd7438de5",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed43/selection_iid_answers.json": "59cc3a7abaabaf748fe4371623e632c144a4e15f826aef5d2dbaadaa8894e04d",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed43/selection_ood_answers.json": "47848f29ddfe0d5e3d2645ef8f9206bd565f5fdb4e96fe5b72fe7501e044a1ae",
+    "runs/architecture-knn-confirmation-v6/trials/architecture-hybrid-attention-cpu-v16-seed43/result.json": "674f01a48b3b3eec3acef723fa578a1ec3ef0eea3b1398ce6aac851cd3d1e282",
+    "scripts/audit_architecture_knn_confirmation_v6.py": "42073874a440b32ad3ea260df5542e508a4067d1fdf290c66f760fe77a7d5aae",
+    "runs/architecture-knn-confirmation-v6/protocol.json": "3bc99af5f8877b140c9a3f647572ef29f7f7b2a4a4f4e5f8e379be137812dc2c",
+    "runs/architecture-knn-confirmation-v6/status.json": "180f4a08e2292eb1094a214e3eb2aff27f7cc4b653adbd058397b66cda4cf22c",
+    "runs/architecture-knn-confirmation-v6/worker.py": "83c3274c9e0bbbdce1a449cac4a79f73840cd0ce4a56a9ba4ee3d455e0cb5318",
+    "runs/architecture-knn-confirmation-v6-root-review-v1/report.json": "1dd8ea53488c57975ee57db7ceb8508b706ab9eb2915e04aa641381edf79d710",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/models/factory.py": "cc6fa7faba217b326ac227316d619f2e41bab119fd0a251f77d19f3d80d837b2",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/prepare_v2.py": "f7d5b0278274c597299801af5c985e1c8ff5723ac43277532951e653e4456fdf",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed17/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/factory.py": "341c4dc3342af3c1c8377e0b5924e0cebbc0baacc1d1e97a0f37810822b5bdb9",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/hybrid_attention_reference.py": "8dac22c9b6250b233bc11d713c31891e93500b99b90f436c1807d257bcec5070",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/hybrid_reference.py": "0deb7fc62889925283384a0bd44a49d6ba16dde2ce1e59a963354cc087ba5610",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/lstm.py": "60566323670371c58f3551dfab669ab491715ec2ad3f8cba0ceb93cb1a0bc11a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/ssd_block_reference.py": "d9e50f6b5dea8afb71f29f50a63f7361029228d09a199043e01a7eff0addc628",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/ssd_reference.py": "6d365005e8537beadfe3baa93093c99ea2209eb30d79b4a644b1b22e5fc46dc0",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/ssm_reference_lm.py": "c65353c5c98e6577a711dc6cd7954bfaf27c1c9f1c70f7d00acfe273aae98775",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/prepare_v2.py": "493a5e29334e5fbe7e58f4dcf5bc88f57f17273709f744aecf8521c374a95ea6",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed17/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/models/factory.py": "cc6fa7faba217b326ac227316d619f2e41bab119fd0a251f77d19f3d80d837b2",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/prepare_v2.py": "f7d5b0278274c597299801af5c985e1c8ff5723ac43277532951e653e4456fdf",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed29/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/factory.py": "341c4dc3342af3c1c8377e0b5924e0cebbc0baacc1d1e97a0f37810822b5bdb9",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/hybrid_attention_reference.py": "8dac22c9b6250b233bc11d713c31891e93500b99b90f436c1807d257bcec5070",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/hybrid_reference.py": "0deb7fc62889925283384a0bd44a49d6ba16dde2ce1e59a963354cc087ba5610",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/lstm.py": "60566323670371c58f3551dfab669ab491715ec2ad3f8cba0ceb93cb1a0bc11a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/ssd_block_reference.py": "d9e50f6b5dea8afb71f29f50a63f7361029228d09a199043e01a7eff0addc628",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/ssd_reference.py": "6d365005e8537beadfe3baa93093c99ea2209eb30d79b4a644b1b22e5fc46dc0",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/ssm_reference_lm.py": "c65353c5c98e6577a711dc6cd7954bfaf27c1c9f1c70f7d00acfe273aae98775",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/prepare_v2.py": "493a5e29334e5fbe7e58f4dcf5bc88f57f17273709f744aecf8521c374a95ea6",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed29/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/models/factory.py": "cc6fa7faba217b326ac227316d619f2e41bab119fd0a251f77d19f3d80d837b2",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/prepare_v2.py": "f7d5b0278274c597299801af5c985e1c8ff5723ac43277532951e653e4456fdf",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-transformer-cpu-lexical-v6-seed43/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/__init__.py": "e75c9358ff7a0ec6cc56bd57781232f7e39779c71107f9558d6bf6ed06000b73",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/factory.py": "341c4dc3342af3c1c8377e0b5924e0cebbc0baacc1d1e97a0f37810822b5bdb9",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/gru.py": "7aeb0890a9c422354efa08e82aa30805992dc1a16aada933e85f8d68f4aa1bc7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/hybrid_attention_reference.py": "8dac22c9b6250b233bc11d713c31891e93500b99b90f436c1807d257bcec5070",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/hybrid_reference.py": "0deb7fc62889925283384a0bd44a49d6ba16dde2ce1e59a963354cc087ba5610",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/lstm.py": "60566323670371c58f3551dfab669ab491715ec2ad3f8cba0ceb93cb1a0bc11a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/ssd_block_reference.py": "d9e50f6b5dea8afb71f29f50a63f7361029228d09a199043e01a7eff0addc628",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/ssd_reference.py": "6d365005e8537beadfe3baa93093c99ea2209eb30d79b4a644b1b22e5fc46dc0",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/ssm_reference_lm.py": "c65353c5c98e6577a711dc6cd7954bfaf27c1c9f1c70f7d00acfe273aae98775",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/transformer.py": "bac6f30d73e9bed68ccaf5deeb20f40b1881fa1b5e8cb9f6dfafc3599ef7398b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/models/__init__.py": "4dbb828fc4fb91442cd55cd154b6f25f5236569dce8f40de39c2e53ccf14706b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/checkpoint.py": "44b4217e0e71ada28fef3f469f7a2113a4d3e77b6cdd985c72b2256fb4026746",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/entry_v2.py": "6efbd0d989521b4de32174479fce12b5dcd088885bfc75d9e9af2b433841e50a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/io.py": "ccae63fe755b168fe946c08f6aec4e3418346ee55741f9ac723714afd7a3895e",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/lexical_tokenizer.py": "aaa1be4b08398f4c9d1d91a1353c4b99581a6e64dd94eb2f449454efebab8d5a",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/prepare.py": "1a13ec27db45b17e26d4c5d9d873f604826537f6db0012e5919342f692e9c148",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/prepare_v2.py": "493a5e29334e5fbe7e58f4dcf5bc88f57f17273709f744aecf8521c374a95ea6",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/tokenizer.py": "cc97b31d215b9f260f0c5176aac9e83a762ddbbd76f0535e542e011a05105538",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/tokenizer_factory.py": "84785fc47e75f9bcc18ab2ec75a2b3b7ae547903b20ecbacdd2f9f7fbf606957",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/train.py": "9c4a3b5ebea495360f5de7b842a1c76cacdb5ba1c570579b01338e882dccc7e3",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/train_v2.py": "31e425a75b7a21d3db82e97ac73ecfd575d06f9fc6b5c3ccc9bb7e6ddec96094",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/__init__.py": "bce11120913c48d19a65cf7aaf39d02c46c0ee6609acf36106c96d21db502afb",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/runner/__main__.py": "e8aab903ac07f83fe4308928d4ce95a925c4dcf37522cccd7ed3ae84683980d5",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/tasks/datasets.py": "665bad6338993b838a55ee8be8900eea285a019d07e089dbaa139abc17630267",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/tasks/expanded.py": "0d5f2e3ef224588c5ae450bab9ff4ae76080dea81a70b64d92746cb73ba66674",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/tasks/length_mix.py": "8d5c1b92ab17d5f048ae7ece889425cfed65d1947181f6a42ea25d7e9d82fe6b",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-hybrid-attention-cpu-v16-seed43/runtime/architecture_research/tasks/__init__.py": "b7f64c1b014caff4d1b982fa1451ff3f12da14701dfd66b3a30b8c5e463532aa",
+    "data/architecture_research/architecture-counterfactual-dev-v7/selection_iid.json": "04ecbc9469fe3428cabd2e94bcaefef784b320be4a9b08c125873c93d26a2492",
+    "data/architecture_research/architecture-counterfactual-dev-v7/selection_ood.json": "49d2913d8a7d157afff1c17197daeecaf67ee175aa5ca94bb984780c8cd28d07",
+    "scripts/prepare_architecture_knn_counterfactual_v7.py": "5d18d7501c388c1b1e4dab9b1659a4ac04a798af1460fff6d5ef953235072444",
+    "architecture_research/tasks/counterfactual.py": "403018687260457ba95d16f3f65f52a2b6f5d4fc88dd5dc62805282eaa29fee8",
+    "architecture_research/tasks/procedural.py": "ca6cb7fc2f58e9e61b2dd4d5821e1bf0447afdcbb1d789d1aed3b55438112ce7",
+    "runs/architecture-knn-counterfactual-v7/preregistration.json": "d7ab86dbf697a3380777a77b051309b2674388fa2721afaa82fd988a7b8404ac",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed17/selection_iid_answers.json": "1714b22c177878ad304cb1c56ac6b74e3a2cfd78b50fdd4cee7ea3f1fd9df9c5",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed17/selection_ood_answers.json": "a4c842dae587ace0bb30e0288426e1fd511932057e619aadeb6bf58210425fff",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed17/result.json": "8beceec5119e48025647995b858a26d1d55f39ac1a1d6fa6b85eef12ebf5f80d",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed17/selection_iid_answers.json": "e3a619f79f33ad8cfc96bc4d099214c159948bb5a82fc7bf586a6900a77e9554",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed17/selection_ood_answers.json": "1729549036d0babc964ff3514d3fb9036b6027f2b32cce07a91dabfad34e016c",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed17/result.json": "5e63bd5e17b48d39b58b836b98d41b4973d4194adfedf3e4b49d151001f973b7",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed29/selection_iid_answers.json": "3e1ed94bcbd26e83acd40dacd9abe46e18f88bae96aa729237277250342fbb9c",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed29/selection_ood_answers.json": "2ca45a2a67ced2a205ac3b421925cb0aa73baa1305e7b15d04162f74d26bd804",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed29/result.json": "4ae73c0ec8ddc4c0277d436b27eecb5c4b15b8887ff67c7211f10be6267cf1c1",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed29/selection_iid_answers.json": "4524f53973296a460bd231402cfe0780de182c28bcde68694be975ebe3a9a482",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed29/selection_ood_answers.json": "df6eb101276fcbd40365af7d4a400879e0daf7e5e75378600452b67f46787e89",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed29/result.json": "cebbe56f07abeea86b0ffd01e60053921e382ce28311a7e45085bf3dc9bc9242",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed43/selection_iid_answers.json": "a7b7e495a7a22da082f3e350356f892c168ec3665bc94fd6017256505ff8ccab",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed43/selection_ood_answers.json": "b8f8de0d6a089394088b1b4a59b4a3b25b3d94fd03c4c421a8e297d1312a1b10",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-transformer-cpu-lexical-v6-seed43/result.json": "f42357ecab8272c9689395ea4b0dfdc6aa6682728e217bd6a4daf689821307c8",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed43/selection_iid_answers.json": "01afd5ff33157e53b03a93561b86b4bc5e0f7324d80457b1e88a228e6c5aa9b0",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed43/selection_ood_answers.json": "6ee71fba5c7dd4a879911923bd995573c4390cbdb2dd927174b9e0ecc9e06745",
+    "runs/architecture-knn-counterfactual-v7/trials/architecture-hybrid-attention-cpu-v16-seed43/result.json": "37d669d114698a7e0697b21f6b87ffad1366001c88babb295b5b2125807c02cb",
+    "scripts/audit_architecture_knn_counterfactual_v7.py": "d51b6118830276e18b686892d95084ccb9e5b875daa2a4fa37faba55d5b95f5b",
+    "runs/architecture-knn-counterfactual-v7/protocol.json": "dc7947927f39cd58904c1de4c65c9309765d86058b59cdff52e9cf752c4cf11d",
+    "runs/architecture-knn-counterfactual-v7/status.json": "9f7b9f2dadb482c924fba7cef2adcc29b57be7e282e8638b88a72993eed57bb1",
+    "runs/architecture-knn-counterfactual-v7/worker.py": "25edf28e4f8ed1e256e4bb5b0b2fc2b60a6f231c72da3229ba1eee64c12985ce",
+    "runs/architecture-knn-counterfactual-v7-root-review-v1/report.json": "db08fa1077e15300b6bb9d513c06af635ef85e324a8f4f16fa735f3e94353cd8"
+  },
+  "checks": "Frozen protocol/review sources and worker hashes; zero optimizer steps and unchanged models are recorded by original workers, not a fresh inference run.",
+  "original_review_rows": {
+    "ordinary": [
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed17",
+        "cohort": "transformer",
+        "seed": 17,
+        "counts": {
+          "selection_iid": {
+            "base": 162,
+            "memory": 156,
+            "shuffled": 160
+          },
+          "selection_ood": {
+            "base": 102,
+            "memory": 100,
+            "shuffled": 105
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed17",
+        "cohort": "hybrid",
+        "seed": 17,
+        "counts": {
+          "selection_iid": {
+            "base": 156,
+            "memory": 161,
+            "shuffled": 156
+          },
+          "selection_ood": {
+            "base": 94,
+            "memory": 95,
+            "shuffled": 94
+          }
+        }
+      },
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed29",
+        "cohort": "transformer",
+        "seed": 29,
+        "counts": {
+          "selection_iid": {
+            "base": 150,
+            "memory": 157,
+            "shuffled": 152
+          },
+          "selection_ood": {
+            "base": 97,
+            "memory": 96,
+            "shuffled": 93
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed29",
+        "cohort": "hybrid",
+        "seed": 29,
+        "counts": {
+          "selection_iid": {
+            "base": 157,
+            "memory": 156,
+            "shuffled": 155
+          },
+          "selection_ood": {
+            "base": 101,
+            "memory": 107,
+            "shuffled": 101
+          }
+        }
+      },
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed43",
+        "cohort": "transformer",
+        "seed": 43,
+        "counts": {
+          "selection_iid": {
+            "base": 142,
+            "memory": 143,
+            "shuffled": 138
+          },
+          "selection_ood": {
+            "base": 94,
+            "memory": 97,
+            "shuffled": 88
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed43",
+        "cohort": "hybrid",
+        "seed": 43,
+        "counts": {
+          "selection_iid": {
+            "base": 146,
+            "memory": 153,
+            "shuffled": 145
+          },
+          "selection_ood": {
+            "base": 88,
+            "memory": 93,
+            "shuffled": 88
+          }
+        }
+      }
+    ],
+    "counterfactual": [
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed17",
+        "cohort": "transformer",
+        "seed": 17,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 151,
+              "memory": 147,
+              "shuffled": 143
+            },
+            "pairs_both_correct": {
+              "base": 44,
+              "memory": 38,
+              "shuffled": 42
+            },
+            "baseline_correct": {
+              "base": 67,
+              "memory": 63,
+              "shuffled": 64
+            },
+            "stale_after_correct_baseline": {
+              "base": 6,
+              "memory": 7,
+              "shuffled": 6
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 1
+                },
+                "memory": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 9,
+                  "stale_after_correct_baseline": 1
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 31,
+                  "stale_after_correct_baseline": 2
+                },
+                "memory": {
+                  "pairs_correct": 30,
+                  "stale_after_correct_baseline": 1
+                },
+                "shuffled": {
+                  "pairs_correct": 31,
+                  "stale_after_correct_baseline": 2
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 3
+                },
+                "memory": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 3
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 86,
+              "memory": 86,
+              "shuffled": 87
+            },
+            "pairs_both_correct": {
+              "base": 14,
+              "memory": 12,
+              "shuffled": 14
+            },
+            "baseline_correct": {
+              "base": 45,
+              "memory": 48,
+              "shuffled": 47
+            },
+            "stale_after_correct_baseline": {
+              "base": 15,
+              "memory": 16,
+              "shuffled": 14
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 6,
+                  "stale_after_correct_baseline": 4
+                },
+                "memory": {
+                  "pairs_correct": 6,
+                  "stale_after_correct_baseline": 3
+                },
+                "shuffled": {
+                  "pairs_correct": 6,
+                  "stale_after_correct_baseline": 4
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 5,
+                  "stale_after_correct_baseline": 4
+                },
+                "memory": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 8
+                },
+                "shuffled": {
+                  "pairs_correct": 5,
+                  "stale_after_correct_baseline": 3
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 7
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed17",
+        "cohort": "hybrid",
+        "seed": 17,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 175,
+              "memory": 173,
+              "shuffled": 172
+            },
+            "pairs_both_correct": {
+              "base": 52,
+              "memory": 53,
+              "shuffled": 50
+            },
+            "baseline_correct": {
+              "base": 79,
+              "memory": 80,
+              "shuffled": 78
+            },
+            "stale_after_correct_baseline": {
+              "base": 9,
+              "memory": 7,
+              "shuffled": 9
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 22,
+                  "stale_after_correct_baseline": 2
+                },
+                "memory": {
+                  "pairs_correct": 21,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 22,
+                  "stale_after_correct_baseline": 2
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 28,
+                  "stale_after_correct_baseline": 0
+                },
+                "memory": {
+                  "pairs_correct": 30,
+                  "stale_after_correct_baseline": 0
+                },
+                "shuffled": {
+                  "pairs_correct": 28,
+                  "stale_after_correct_baseline": 0
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 7
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 108,
+              "memory": 106,
+              "shuffled": 106
+            },
+            "pairs_both_correct": {
+              "base": 9,
+              "memory": 8,
+              "shuffled": 8
+            },
+            "baseline_correct": {
+              "base": 56,
+              "memory": 59,
+              "shuffled": 55
+            },
+            "stale_after_correct_baseline": {
+              "base": 28,
+              "memory": 28,
+              "shuffled": 25
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 6,
+                  "stale_after_correct_baseline": 7
+                },
+                "shuffled": {
+                  "pairs_correct": 7,
+                  "stale_after_correct_baseline": 7
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 6
+                },
+                "memory": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 7
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 6
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 15
+                },
+                "memory": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 14
+                },
+                "shuffled": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 12
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed29",
+        "cohort": "transformer",
+        "seed": 29,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 149,
+              "memory": 150,
+              "shuffled": 147
+            },
+            "pairs_both_correct": {
+              "base": 44,
+              "memory": 48,
+              "shuffled": 44
+            },
+            "baseline_correct": {
+              "base": 69,
+              "memory": 72,
+              "shuffled": 69
+            },
+            "stale_after_correct_baseline": {
+              "base": 9,
+              "memory": 7,
+              "shuffled": 10
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 16,
+                  "stale_after_correct_baseline": 5
+                },
+                "memory": {
+                  "pairs_correct": 15,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 16,
+                  "stale_after_correct_baseline": 5
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 28,
+                  "stale_after_correct_baseline": 1
+                },
+                "memory": {
+                  "pairs_correct": 33,
+                  "stale_after_correct_baseline": 1
+                },
+                "shuffled": {
+                  "pairs_correct": 28,
+                  "stale_after_correct_baseline": 1
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 3
+                },
+                "memory": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 4
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 86,
+              "memory": 87,
+              "shuffled": 83
+            },
+            "pairs_both_correct": {
+              "base": 13,
+              "memory": 14,
+              "shuffled": 14
+            },
+            "baseline_correct": {
+              "base": 50,
+              "memory": 45,
+              "shuffled": 45
+            },
+            "stale_after_correct_baseline": {
+              "base": 12,
+              "memory": 15,
+              "shuffled": 12
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 2
+                },
+                "memory": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 9,
+                  "stale_after_correct_baseline": 2
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 5
+                },
+                "memory": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 4
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 5
+                },
+                "memory": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 6
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed29",
+        "cohort": "hybrid",
+        "seed": 29,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 162,
+              "memory": 162,
+              "shuffled": 161
+            },
+            "pairs_both_correct": {
+              "base": 45,
+              "memory": 45,
+              "shuffled": 44
+            },
+            "baseline_correct": {
+              "base": 73,
+              "memory": 73,
+              "shuffled": 72
+            },
+            "stale_after_correct_baseline": {
+              "base": 14,
+              "memory": 12,
+              "shuffled": 13
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 12,
+                  "stale_after_correct_baseline": 4
+                },
+                "memory": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 12,
+                  "stale_after_correct_baseline": 4
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 31,
+                  "stale_after_correct_baseline": 3
+                },
+                "memory": {
+                  "pairs_correct": 32,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 31,
+                  "stale_after_correct_baseline": 3
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 6
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 6
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 97,
+              "memory": 103,
+              "shuffled": 96
+            },
+            "pairs_both_correct": {
+              "base": 11,
+              "memory": 14,
+              "shuffled": 11
+            },
+            "baseline_correct": {
+              "base": 59,
+              "memory": 62,
+              "shuffled": 59
+            },
+            "stale_after_correct_baseline": {
+              "base": 31,
+              "memory": 33,
+              "shuffled": 32
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 10
+                },
+                "memory": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 11
+                },
+                "shuffled": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 10
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 9
+                },
+                "memory": {
+                  "pairs_correct": 9,
+                  "stale_after_correct_baseline": 9
+                },
+                "shuffled": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 9
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 12
+                },
+                "memory": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 13
+                },
+                "shuffled": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 13
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "model": "architecture-transformer-cpu-lexical-v6-seed43",
+        "cohort": "transformer",
+        "seed": 43,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 167,
+              "memory": 166,
+              "shuffled": 166
+            },
+            "pairs_both_correct": {
+              "base": 50,
+              "memory": 50,
+              "shuffled": 48
+            },
+            "baseline_correct": {
+              "base": 84,
+              "memory": 83,
+              "shuffled": 84
+            },
+            "stale_after_correct_baseline": {
+              "base": 11,
+              "memory": 11,
+              "shuffled": 10
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 10,
+                  "stale_after_correct_baseline": 4
+                },
+                "memory": {
+                  "pairs_correct": 13,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 10,
+                  "stale_after_correct_baseline": 4
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 38,
+                  "stale_after_correct_baseline": 2
+                },
+                "memory": {
+                  "pairs_correct": 36,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 37,
+                  "stale_after_correct_baseline": 2
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 5
+                },
+                "memory": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 4
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 93,
+              "memory": 96,
+              "shuffled": 86
+            },
+            "pairs_both_correct": {
+              "base": 12,
+              "memory": 21,
+              "shuffled": 10
+            },
+            "baseline_correct": {
+              "base": 50,
+              "memory": 52,
+              "shuffled": 47
+            },
+            "stale_after_correct_baseline": {
+              "base": 17,
+              "memory": 17,
+              "shuffled": 16
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 6
+                },
+                "memory": {
+                  "pairs_correct": 9,
+                  "stale_after_correct_baseline": 7
+                },
+                "shuffled": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 6
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 7,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 8,
+                  "stale_after_correct_baseline": 6
+                },
+                "shuffled": {
+                  "pairs_correct": 5,
+                  "stale_after_correct_baseline": 6
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 4
+                },
+                "memory": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 4
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "model": "architecture-hybrid-attention-cpu-v16-seed43",
+        "cohort": "hybrid",
+        "seed": 43,
+        "stats": {
+          "selection_iid": {
+            "marginal_correct": {
+              "base": 164,
+              "memory": 165,
+              "shuffled": 160
+            },
+            "pairs_both_correct": {
+              "base": 42,
+              "memory": 41,
+              "shuffled": 41
+            },
+            "baseline_correct": {
+              "base": 77,
+              "memory": 80,
+              "shuffled": 75
+            },
+            "stale_after_correct_baseline": {
+              "base": 13,
+              "memory": 10,
+              "shuffled": 12
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 6
+                },
+                "memory": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 5
+                },
+                "shuffled": {
+                  "pairs_correct": 11,
+                  "stale_after_correct_baseline": 6
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 31,
+                  "stale_after_correct_baseline": 2
+                },
+                "memory": {
+                  "pairs_correct": 28,
+                  "stale_after_correct_baseline": 2
+                },
+                "shuffled": {
+                  "pairs_correct": 30,
+                  "stale_after_correct_baseline": 2
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 5
+                },
+                "memory": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 3
+                },
+                "shuffled": {
+                  "pairs_correct": 0,
+                  "stale_after_correct_baseline": 4
+                }
+              }
+            }
+          },
+          "selection_ood": {
+            "marginal_correct": {
+              "base": 102,
+              "memory": 95,
+              "shuffled": 102
+            },
+            "pairs_both_correct": {
+              "base": 9,
+              "memory": 9,
+              "shuffled": 10
+            },
+            "baseline_correct": {
+              "base": 53,
+              "memory": 52,
+              "shuffled": 50
+            },
+            "stale_after_correct_baseline": {
+              "base": 22,
+              "memory": 18,
+              "shuffled": 20
+            },
+            "by_family": {
+              "memory_recall": {
+                "base": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 7
+                },
+                "memory": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 7
+                },
+                "shuffled": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 7
+                }
+              },
+              "memory_update": {
+                "base": {
+                  "pairs_correct": 4,
+                  "stale_after_correct_baseline": 9
+                },
+                "memory": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 7
+                },
+                "shuffled": {
+                  "pairs_correct": 5,
+                  "stale_after_correct_baseline": 8
+                }
+              },
+              "execute_counter": {
+                "base": {
+                  "pairs_correct": 2,
+                  "stale_after_correct_baseline": 6
+                },
+                "memory": {
+                  "pairs_correct": 3,
+                  "stale_after_correct_baseline": 4
+                },
+                "shuffled": {
+                  "pairs_correct": 1,
+                  "stale_after_correct_baseline": 5
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
